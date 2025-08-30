@@ -13,10 +13,10 @@ The purpose of this project is to **visualize the state of data-related jobs** a
 
 ## 🖼 Dashboard Previews
 ### Version 1:
-![Dashboard Preview](images/Project%201.PNG)
+![Dashboard Preview](.images/Project%201.PNG)
 
 ### Version 2:
-![Dashboard Preview 2](images/projecttt22.0.png)
+![Dashboard Preview 2](.images/projecttt22.0.png)
 
 ---
 
@@ -63,4 +63,5 @@ If you found this project useful, please **⭐ star this repository** and feel f
 **Email:** chukwuduru588@gmail.com  
 
 ---
+
 
