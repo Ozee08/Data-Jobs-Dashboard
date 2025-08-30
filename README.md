@@ -56,10 +56,11 @@ The purpose of this project is to **visualize the state of data-related jobs** a
 
 ---
 
-## 🖼 Dashboard Previews
-### Version 1:
-![Dashboard Preview](images/Project%201.PNG)
+## 🖼 Project 2
 
+## Introduction
+
+Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard (v2.0) is designed specifically for **Job Seekers, Job Transitioners, and Job Swappers** to cut through the clutter! Using a real-world dataset of 2024 Data science job postings-
 ### Version 2:
 ![Dashboard Preview 2](images/projecttt22.0.png)
 
