@@ -60,16 +60,16 @@ The purpose of this project is to **visualize the state of data-related jobs** a
 
 ## Introduction
 
-Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard (v2.0) is designed specifically for **Job Seekers, Job Transitioners, and Job Swappers** to cut through the clutter! Using a real-world dataset of 2024 Data science job postings-
-### Version 2:
+Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard (v2.0) is designed specifically for **Job Seekers, Job Transitioners, and Job Swappers** to cut through the clutter! Using a real-world dataset of 2024 Data science job postings-rich with details on titles, salaries, and locations-this project offers a streamlined, single-page interface to quickly explore crucial market trends and compensation insights.
+
 ![Dashboard Preview 2](images/projecttt22.0.png)
 
 ---
 
-## 🛠 Tools & Technologies Used
-- **Power BI** – For creating interactive dashboards  
-- **Excel / CSV Data** – For data cleaning and preparation  
-- **DAX (Data Analysis Expressions)** – For advanced calculations  
+## 🛠 Skills Showcased
+- **Dashboard Design**: Crafting an intuitive and visually appealing report layout.
+- **Power Query ETL**: Performing data cleaning, shaping, and transformation. 
+- **DAX (Data Analysis Expressions)** – For advanced calculations and aggregations to derive key insights.  
 
 ---
 
@@ -88,42 +88,24 @@ Navigating the data job market can feel like a maze with information scattered e
 - Identify **top technical skills** employers demand
 
 ---
-
-## ▶ How to Use
-1. Download the `.pbix` file from this repository.
-2. Open in **Power BI Desktop**.
-3. Interact with the filters and visuals for insights.
-
----
-
-## 🚀 Why This Project Matters
-In today’s competitive market, understanding **job demand and skills** is essential. This dashboard provides **data-driven insights** to help job seekers and businesses make **better decisions**.
-
----
-
-## 🙌 Conclusion
-This project demonstrates the **power of data visualization** using Power BI. It’s not just about numbers; it’s about **turning data into actionable insights**.  
-If you found this project useful, please **⭐ star this repository** and feel free to connect with me!  
-
-**LinkedIn:** [linkedin.com/in/duruchukwuma](https://linkedin.com/in/duruchukwuma)  
-**Email:** chukwuduru588@gmail.com  
-
----
-
-
 ## ▶ How to Use
 1. Download the `.pbix` file from this repository.
 2. Open it using **Power BI Desktop**.
 3. Explore the dashboards, filters, and visuals.
 4. Connect with your own dataset if you want to replicate the project.
 
+
 ## 🚀 Why This Project Matters
-Businesses today rely on **data visualization** to drive growth. This project reflects the ability to **analyze, interpret, and present data in a clear and impactful way**, which is crucial for any data analyst role.
+In today’s competitive market, understanding **job demand and skills** is essential. This dashboard provides **data-driven insights** to help job seekers and businesses make **better decisions**.
+
+---
+
 
 ## 🙌 Final Thoughts
 This project is not just about creating visuals; it’s about **telling the story behind the data**. It showcases problem-solving skills, attention to detail, and a passion for **business intelligence**.
 
 **If you find this helpful, feel free to ⭐ this repository and connect with me on [LinkedIn](https://www.linkedin.com/in/chukwuma-duru-2896ab333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).**
+**Email:** chukwuduru588@gmail.com  
 
 ---
 
