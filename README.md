@@ -1,21 +1,21 @@
 
 # Data Job Market Dashboard
-## 📊 Preview of the Dashboard
+##  Preview of the Dashboard
 ![Dashboard Preview](images/Project%201.PNG)
 
 *(The above screenshot represents an interactive Power BI dashboard built during the project.)*
 
-## 📌 Project Introduction
+##  Project Introduction
 This project was created for **Job Seekers, Job Transitioners, and, Job Swappers** to solve a common problem; information about the data job market is scattered and hard to grasp. Using a *real-world dataset of 2024 data science job postings* (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 - **Power BI Desktop** for visualization.
 - **Excel / CSV datasets** for data cleaning and preparation.
 - **Data Cleaning & Transformation**
 - **DAX (Data Analysis Expressions)**  for advanced calculations.
 
 
-## 🔍 Key Features
+##  Key Features
 ✔ **Data Cleaning & Modeling:** Applied Power Query to clean, transform, and structure raw data.  
 ✔ **Interactive Dashboards:** Created dynamic dashboards with slicers, filters, and drill-through features.  
 ✔ **KPIs & Metrics:** Displayed key business indicators for better decision-making.  
@@ -24,7 +24,7 @@ This project was created for **Job Seekers, Job Transitioners, and, Job Swappers
 - Average salaries vary significantly by region
 - Remote job opportunities are steadily increasing
 
-## ✅ Objectives
+##  Objectives
 - Improve **data-driven decision making**.
 - Build **professional, visually appealing dashboards**.
 - Showcase **business intelligence skills** in real-world scenarios.
@@ -45,7 +45,7 @@ This is a deep-dive page. From the main dashboard, you can drill through to this
 
 # 📊 Data Jobs Dashboard Project (Power BI)
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing the **data job market** using **Power BI**. The dashboard provides key insights into:
 - **Job counts** and trends
 - **Salary analysis** (hourly & yearly)
@@ -56,7 +56,7 @@ The purpose of this project is to **visualize the state of data-related jobs** a
 
 ---
 
-## 🖼 Project 2
+##  Project 2
 
 ## Introduction
 
@@ -66,14 +66,14 @@ Navigating the data job market can feel like a maze with information scattered e
 
 ---
 
-## 🛠 Skills Showcased
+##  Skills Showcased
 - **Dashboard Design**: Crafting an intuitive and visually appealing report layout.
 - **Power Query ETL**: Performing data cleaning, shaping, and transformation. 
 - **DAX (Data Analysis Expressions)** – For advanced calculations and aggregations to derive key insights.  
 
 ---
 
-## 🔍 Key Features
+##  Key Features
 ✔ **Dynamic Filters** for Job Titles & Countries  
 ✔ **Salary Comparisons** (Hourly vs Yearly)  
 ✔ **Top Skills in Data Jobs**  
@@ -82,29 +82,29 @@ Navigating the data job market can feel like a maze with information scattered e
 
 ---
 
-## ✅ Objectives
+##  Objectives
 - Analyze job trends in the **data industry**
 - Compare **salary variations across roles**
 - Identify **top technical skills** employers demand
 
 ---
-## ▶ How to Use
+##  How to Use
 1. Download the `.pbix` file from this repository.
 2. Open it using **Power BI Desktop**.
 3. Explore the dashboards, filters, and visuals.
 4. Connect with your own dataset if you want to replicate the project.
 
 
-## 🚀 Why This Project Matters
+##  Why This Project Matters
 In today’s competitive market, understanding **job demand and skills** is essential. This dashboard provides **data-driven insights** to help job seekers and businesses make **better decisions**.
 
 ---
 
 
-## 🙌 Final Thoughts
+##  Final Thoughts
 This project is not just about creating visuals; it’s about **telling the story behind the data**. It showcases problem-solving skills, attention to detail, and a passion for **business intelligence**.
 
-**If you find this helpful, feel free to ⭐ this repository and connect with me on [LinkedIn](https://www.linkedin.com/in/chukwuma-duru-2896ab333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).**
+**If you find this helpful, feel free to ⭐ this repository and connect with me on [LinkedIn](https://www.linkedin.com/in/chukwuma-duru).**
 **Email:** chukwuduru588@gmail.com  
 
 ---
